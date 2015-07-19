@@ -1,4 +1,4 @@
-# hackdayprize2015
+# Hackadayprize2015
 ## Pinout
 ### Laser
 D2 - Laser Output
