@@ -8,7 +8,7 @@ CMSIS_PATH=$(NP2_ROOT)/src/Libraries/cmsis
 FREERTOS_PATH=$(NP2_ROOT)/src/FreeRTOS
 CLI_PATH=$(NP2_ROOT)/src/FreeRTOSplus/FreeRTOS-Plus-CLI
 PERIPH_PATH=$(NP2_ROOT)/src/peripherals
-LIBS_PATH = /Users/tim/Development/Libs
+LIBS_PATH = .
 
 PROJ_NAME=main
 
